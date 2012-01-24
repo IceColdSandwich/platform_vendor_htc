@@ -48,5 +48,4 @@ PRODUCT_COPY_FILES += \
     vendor/htc/ace/proprietary/liboemcamera.so:/system/lib/liboemcamera.so \
     vendor/htc/ace/proprietary/awb_camera:/system/bin/awb_camera \
     vendor/htc/ace/proprietary/gps.spade.so:/system/lib/hw/gps.spade.so \
-    vendor/htc/ace/apps/wifixmanager.apk:/system/app/wifixmanager.apk \
-    vendor/htc/ace/apps/es_fe1610.apk:/system/app/es_fe1610.apk
+    vendor/htc/ace/apps/wifixmanager.apk:/system/app/wifixmanager.apk

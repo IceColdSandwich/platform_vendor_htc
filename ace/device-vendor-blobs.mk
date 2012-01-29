@@ -49,4 +49,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/ace/proprietary/awb_camera:/system/bin/awb_camera \
     vendor/htc/ace/proprietary/gps.spade.so:/system/lib/hw/gps.spade.so \
     vendor/htc/ace/apps/wifixmanager.apk:/system/app/wifixmanager.apk \
-    vendor/htc/ace/apps/Camera.apk:/system/app/Camera.apk
+    vendor/htc/ace/apps/Camera.apk:/system/app/Camera.apk \
+    vendor/htc/ace/proprietary/libbcc.so:/system/lib/libbcc.so
+    

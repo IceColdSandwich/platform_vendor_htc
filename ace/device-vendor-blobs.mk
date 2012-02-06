@@ -51,6 +51,4 @@ PRODUCT_COPY_FILES += \
     vendor/htc/ace/apps/wifixmanager.apk:/system/app/wifixmanager.apk \
     vendor/htc/ace/apps/Camera.apk:/system/app/Camera.apk \
     vendor/htc/ace/proprietary/libbcc.so:/system/lib/libbcc.so \
-    vendor/htc/ace/apps/modelid_cfg.sh:/system/bin/modelid_cfg.sh \
-    vendor/htc/ace/apps/Music.apk:/system/app/Music.apk
-    
+    vendor/htc/ace/apps/modelid_cfg.sh:/system/bin/modelid_cfg.sh    

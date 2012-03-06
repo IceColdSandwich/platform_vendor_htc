@@ -54,4 +54,5 @@ PRODUCT_COPY_FILES += \
     vendor/htc/ace/proprietary/libbcc.so:/system/lib/libbcc.so \
     vendor/htc/ace/apps/modelid_cfg.sh:/system/bin/modelid_cfg.sh \
     vendor/htc/ace/apps/audio_effects.conf:/system/etc/audio_effects.conf \
-    vendor/htc/ace/apps/GooManager_1.4_signed.apk:/system/app/GooManager_1.4_signed.apk
+    vendor/htc/ace/apps/GooManager_1.5_signed.apk:/system/app/GooManager.apk \
+    vendor/htc/ace/apps/NovaLauncher_1.0.2beta3.apk:/system/app/NovaLauncher.apk

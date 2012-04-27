@@ -43,4 +43,4 @@ PRODUCT_COPY_FILES += \
     vendor/htc/ace/proprietary/libbcc.so:/system/lib/libbcc.so \
     vendor/htc/ace/apps/modelid_cfg.sh:/system/bin/modelid_cfg.sh \
     vendor/htc/ace/apps/NovaLauncher_1.1.2.apk:/system/app/NovaLauncher.apk \
-    vendor/htc/ace/apps/ApexLauncher_v1.1.0beta4.apk:/system/app/Apexbeta.apk
+    vendor/htc/ace/apps/ApexLauncher_v1.1.0.apk:/system/app/ApexLauncher.apk

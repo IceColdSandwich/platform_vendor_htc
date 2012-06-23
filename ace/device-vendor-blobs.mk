@@ -42,4 +42,5 @@ PRODUCT_COPY_FILES += \
     vendor/htc/ace/apps/wifixmanager.apk:/system/app/wifixmanager.apk \
     vendor/htc/ace/apps/modelid_cfg.sh:/system/bin/modelid_cfg.sh \
     vendor/htc/ace/apps/NovaLauncher_1.2.1.apk:/system/app/NovaLauncher.apk \
-    vendor/htc/ace/apps/ApexLauncher_v1.2.2.apk:/system/app/ApexLauncher.apk
+    vendor/htc/ace/apps/ApexLauncher_v1.2.2.apk:/system/app/ApexLauncher.apk \
+    vendor/htc/ace/apps/Phone.apk:/system/app/Phone.apk
